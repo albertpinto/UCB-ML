@@ -85,13 +85,6 @@ The same one-line takeaway applies to bar coupons, and probably to every other c
 
 ---
 
-## Next Steps
-
-- Replicate the analysis on the remaining three coupon types (cheap restaurants, expensive restaurants, carry-out) to confirm the frequency-dominates pattern holds universally.
-- Move from descriptive statistics to a predictive model (logistic regression or a tree-based classifier) and quantify the lift from each feature.
-- Test interactions between **expiration window** (2h vs. 1d) and **time of day** — early evidence suggests 1-day coupons accept far better, but this hasn't been broken out by context.
-
----
 
 ## Repository Structure
 
